@@ -1,2 +1,2 @@
-fastai == 2.0.14
+fastai == 2.0.13
 voila
